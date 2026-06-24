@@ -201,7 +201,7 @@ Everything related to licenses.
 **Driver's License Section:**
 - Digital Driver's License
 - QR Code
-- NFC Verification
+- **NFC Verification**
 - License Number
 - Expiry Date
 - Renewal Status
